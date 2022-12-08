@@ -15,7 +15,7 @@ public class RaceUtility {
         int starter;
         for(space = 0; space = -1;)
          space = sentence.indexOf("");
-         
+
         String finalString = sentence.substring(0,1).toUpperCase();
         for(int i = 1; i < word.length(); i++){
 
